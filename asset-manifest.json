@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Shivam-Shandilya1/BettleWeb/static/css/main.aed471bd.chunk.css",
-    "main.js": "/Shivam-Shandilya1/BettleWeb/static/js/main.e743ba87.chunk.js",
-    "main.js.map": "/Shivam-Shandilya1/BettleWeb/static/js/main.e743ba87.chunk.js.map",
-    "runtime-main.js": "/Shivam-Shandilya1/BettleWeb/static/js/runtime-main.91be4f00.js",
-    "runtime-main.js.map": "/Shivam-Shandilya1/BettleWeb/static/js/runtime-main.91be4f00.js.map",
-    "static/js/2.fb885668.chunk.js": "/Shivam-Shandilya1/BettleWeb/static/js/2.fb885668.chunk.js",
-    "static/js/2.fb885668.chunk.js.map": "/Shivam-Shandilya1/BettleWeb/static/js/2.fb885668.chunk.js.map",
-    "index.html": "/Shivam-Shandilya1/BettleWeb/index.html",
-    "static/css/main.aed471bd.chunk.css.map": "/Shivam-Shandilya1/BettleWeb/static/css/main.aed471bd.chunk.css.map",
-    "static/js/2.fb885668.chunk.js.LICENSE.txt": "/Shivam-Shandilya1/BettleWeb/static/js/2.fb885668.chunk.js.LICENSE.txt",
-    "static/media/img1.650c50ca.jpg": "/Shivam-Shandilya1/BettleWeb/static/media/img1.650c50ca.jpg"
+    "main.css": "/BettleWeb/static/css/main.aed471bd.chunk.css",
+    "main.js": "/BettleWeb/static/js/main.e743ba87.chunk.js",
+    "main.js.map": "/BettleWeb/static/js/main.e743ba87.chunk.js.map",
+    "runtime-main.js": "/BettleWeb/static/js/runtime-main.16c5e414.js",
+    "runtime-main.js.map": "/BettleWeb/static/js/runtime-main.16c5e414.js.map",
+    "static/js/2.fb885668.chunk.js": "/BettleWeb/static/js/2.fb885668.chunk.js",
+    "static/js/2.fb885668.chunk.js.map": "/BettleWeb/static/js/2.fb885668.chunk.js.map",
+    "index.html": "/BettleWeb/index.html",
+    "static/css/main.aed471bd.chunk.css.map": "/BettleWeb/static/css/main.aed471bd.chunk.css.map",
+    "static/js/2.fb885668.chunk.js.LICENSE.txt": "/BettleWeb/static/js/2.fb885668.chunk.js.LICENSE.txt",
+    "static/media/img1.650c50ca.jpg": "/BettleWeb/static/media/img1.650c50ca.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.91be4f00.js",
+    "static/js/runtime-main.16c5e414.js",
     "static/js/2.fb885668.chunk.js",
     "static/css/main.aed471bd.chunk.css",
     "static/js/main.e743ba87.chunk.js"
